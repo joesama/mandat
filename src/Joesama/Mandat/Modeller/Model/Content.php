@@ -1,0 +1,1 @@
+<?php namespace Joesama\Mandat\Modeller\Model;
